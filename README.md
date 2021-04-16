@@ -3,6 +3,9 @@
 <!-- Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mircomannino&count_private=true)
 
+<!-- Icons -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 <!-- Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mircomannino)](https://github.com/anuraghazra/github-readme-stats)
 
