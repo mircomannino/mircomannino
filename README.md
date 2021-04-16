@@ -1,4 +1,4 @@
-### Hi there 👋
+### M.Sc. student in Computer and Automation Engineering at University of Siena. 
 
 <!--
 **mircomannino/mircomannino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
