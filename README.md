@@ -1,10 +1,7 @@
 ### M.Sc. student in Computer and Automation Engineering at University of Siena. 
 
-<!-- Theme -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 <!-- Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mircomannino&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mircomannino&hide=contribs,prsshow_icons=true&theme=radical)
 
 <!-- Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mircomannino&layout=compact&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
