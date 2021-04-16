@@ -1,6 +1,10 @@
 ### M.Sc. student in Computer and Automation Engineering at University of Siena. 
 
+<!-- Stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mircomannino)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mircomannino/mircomannino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
