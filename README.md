@@ -1,5 +1,8 @@
 ### M.Sc. student in Computer and Automation Engineering at University of Siena. 
 
+<!-- Stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 <!-- Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mircomannino&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
