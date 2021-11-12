@@ -1,4 +1,4 @@
-### M.Sc. student in Computer and Automation Engineering at University of Siena. 
+### M.Sc. Computer and Automation Engineering at University of Siena. 
 
 <!-- Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mircomannino&hide=contribs,issues&theme=buefy)
