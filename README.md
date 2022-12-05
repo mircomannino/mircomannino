@@ -3,9 +3,6 @@
 <!-- Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mircomannino&hide=contribs,issues&theme=buefy)
 
-<!-- Top Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mircomannino&layout=compact&hide=Batchfile&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **mircomannino/mircomannino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
